@@ -50,6 +50,8 @@ https://templatemo.com/tm-531-reflux
                 <!--<li><a href="#section2">Skills</a></li>-->
                 <li><a href="#section3">Publications</a></li>
                 <li><a href="#section4">Contact</a></li>
+                <li><img src="assets/images/sun.png" id="icon"></li>
+                
               </ul>
             </nav>
             <div class="social-network">
@@ -487,6 +489,20 @@ https://templatemo.com/tm-531-reflux
       $(window).scroll(function() {
         checkSection();
       });
+    </script>
+        
+    <script>
+            var icon = document.getElementById("icon");
+            icon.onclick = function(){
+                document.body.classList.toggle("lighttheme");
+                if(document.body.classList.contains("lighttheme")){
+                    icon.src = "assets/images/moon.png";
+                }else{
+                    
+                    icon.src = "assets/images/sun.png";
+                }
+            }
+            
     </script>
   </body>
 </html>
