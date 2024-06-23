@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sabur"
+title                    : "Sabur's Homepage"
 title_separator          : "-"
 name                     : &name "Sabur Butt"
-description              : &description "personal description"
+description              : &description "Natural Language Processing"
 url                      : https://saburbutt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saburbutt/saburbutt.github.io"
