@@ -11,7 +11,7 @@ author_profile: true
 
 
 
- *   ##### 2023
+*   ##### 2023
     
 
 Butt, S., Mejía-Almada, P., Alvarado-Uribe, J., Ceballos, H. G., Sidorov, G., & Gelbukh, A. (2023, October). **MF-SET: A Multitask Learning Framework for Student Evaluation of Teaching.**In Proceedings of the Future Technologies Conference (pp. 254-270). Cham: Springer Nature Switzerland. [Link](https://link.springer.com/chapter/10.1007/978-3-031-47454-5_20)
