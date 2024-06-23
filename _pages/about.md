@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Sabur Butt"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About me
---------
 
 I currently serve as a Postdoctoral Researcher at the [Institute for the Future of Education (IFE)](https://tec.mx/en/ife), Tecnológico de Monterrey, Mexico. My role at IFE is centered around leading interdisciplinary projects that explore the convergence of Natural Language Processing and Education.
 
@@ -18,6 +16,3 @@ My expertise lies in the field of Natural Language Processing (NLP), and my broa
 
 In my free time, I love to work out, cook, travel, and read. I'm particularly passionate about tea, savoring its diverse flavors and the art of brewing the perfect cup. If you ever find yourself in my company, I'd be delighted to invite you for a cup of tea and some great conversation.
 
-<! --For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.--> 
