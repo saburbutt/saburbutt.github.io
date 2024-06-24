@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-EmoThreat: Dataset for Multi-label Emotion Classification in Urdu [Link](https://sites.google.com/view/multi-label-emotionsfire-task/dataset?authuser=0)
+EmoThreat: Dataset for Multi-label Emotion Classification in Urdu 
+[Link](https://sites.google.com/view/multi-label-emotionsfire-task/dataset?authuser=0)
 
 
 EmoThreat: Dataset for Threatening Language Detection Task in Urdu [Link](https://sites.google.com/view/multi-label-emotionsfire-task/dataset?authuser=0)
