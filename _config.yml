@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sabur's Homepage"
+title                    : #"Sabur Butt"
 title_separator          : "-"
 name                     : #&name "Sabur Butt"
 description              : &description "Natural Language Processing"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sabur Butt"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Interests in Natural Language Processing and Psycholinguistics. I love to explore behaviors in text."
   location         : "Monterrey, Mexico"
   employer         : "Tecnológico de Monterrey"
   uri              : # URL
