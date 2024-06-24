@@ -11,7 +11,7 @@ author_profile: true
 
 
 
-*   ##### 2023
+**2023**
     
 
 Butt, S., Mejía-Almada, P., Alvarado-Uribe, J., Ceballos, H. G., Sidorov, G., & Gelbukh, A. (2023, October). **MF-SET: A Multitask Learning Framework for Student Evaluation of Teaching.**In Proceedings of the Future Technologies Conference (pp. 254-270). Cham: Springer Nature Switzerland. [Link](https://link.springer.com/chapter/10.1007/978-3-031-47454-5_20)
@@ -22,7 +22,7 @@ Balouchzahi, F., Butt, S., Sidorov, G., & Gelbukh, A. (2023). **ReDDIT: Regret d
 
 Sidorov, G., Balouchzahi, F., Butt, S., & Gelbukh, A. (2023). **Regret and Hope on Transformers: An Analysis of Transformers on Regret and Hope Speech Detection Datasets.** Applied Sciences, 13(6), 3983. [Link](https://www.mdpi.com/2076-3417/13/6/3983)
 
-*   ##### 2022
+**2022**
     
 
 Butt, S., Amjad, M., Balouchzahi, F., Ashraf, N., Sharma, R., Sidorov, G., & Gelbukh, A. (2022, December). **EmoThreat@ FIRE2022: Shared Track on Emotions and Threat Detection in Urdu.** In Proceedings of the 14th Annual Meeting of the Forum for Information Retrieval Evaluation (pp. 1-3). [Link](https://dl.acm.org/doi/abs/10.1145/3574318.3574327)
@@ -47,7 +47,7 @@ Amjad, M., Butt, S., Amjad, H. I., Zhila, A., Sidorov, G., & Gelbukh, A. (2022).
 
 Amjad, M., Butt, S., Amjad, H. I., Zhila, A., Sidorov, G., & Gelbukh, A. (2022).**Overview of Abusive and Threatening Language Detection in Urdu at FIRE** Forum for Information Retrieval Evaluation. [Link](https://arxiv.org/pdf/2207.06710.pdf)
 
-*   ##### 2021
+**2021**
     
 
 Hoang, TT., Butt, S., Angel, J., Sidorov, G., & Gelbukh, A (2021) **The Combination of BERT and Data Oversampling for Relation Set Prediction.** International Semantic Web Conference (pp. 22-33) [Link](https://ceur-ws.org/Vol-3119/paper3.pdf)
@@ -60,7 +60,7 @@ Butt S., Ashraf N., Sidorov G., Gelbukh A. (2021) **Sexism Identification using 
 
 Butt S., Siddiqui M.H.F., Ashraf N., Sidorov G., Gelbukh A. (2021) **Transformer-Based Extractive Social Media Question Answering on TweetQA.** In Computación y Sistemas. 25(1). [Link](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3897)
 
-*   ##### 2018
+**2018**
     
 
 Rehmani T., Butt S., Baig I.R., Malik Z.H., Ali M. (2018) **Designing Robot Receptionist for Overcoming Poor Infrastructure, Low Literacy and Low Rate of Female Interaction.** In Companion of the 2018 ACM/IEEE International Conference on Human-Robot Interaction (HRI '18). Association for Computing Machinery, New York, NY, USA, 211–212. [Link](https://dl.acm.org/doi/abs/10.1145/3173386.3177041)
