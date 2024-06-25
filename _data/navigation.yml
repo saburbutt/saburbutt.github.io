@@ -6,8 +6,12 @@ main:
   - title: "Datasets"
     url: /datasets/
     
+  - title: "Research"
+    url: /research/
+
   - title: "CV"
     url: /files/Resume.pdf
+
     
 #- title: "CV"
 #    url: /cv/
