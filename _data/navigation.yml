@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/    
     
-  - title: "Datasets"
-    url: /datasets/
-    
   - title: "Research"
     url: /research/
+    
+  - title: "Datasets"
+    url: /datasets/
 
   - title: "CV"
     url: /files/Resume.pdf
