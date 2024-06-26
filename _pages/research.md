@@ -27,20 +27,20 @@ author_profile: true
 - Organizer at CoLI-Dravidian Word-level Code-Mixed Language Identification in Dravidian Languages @FIRE 2024. [Link](https://sites.google.com/view/coli-dravidian-2024/home)
 
 
-
+---
 ## Grants
 ### 2021
 - Principal Investigator (PI): Two-year technical development and innovation grant for the project “VOISELL - System for the accessibility of digital markets for people with loss of vision” [Link](https://drive.google.com/file/d/1oW9EWi4jGkl4u2AijJ_D3ABS3ojLkUc2/view?usp=sharing)
 - Co-Investigator: Two-year technical development and innovation grant for the project “Automatic vocabulary creation system to facilitate learning lexicon of humans and machines” [Link](https://www.ipn.mx/assets/files/investigacion/docs/convocatorias/internas/pro-dtia/2021/PRO21DTIA-resultados2.pdf)
 
 
-
+---
 ## Talks
 ### Invited Talks and Seminars
 - **May 2023**: Seminar on "Emerging Technologies and Concepts for Large Language Models (LLM)" at IFE Living Lab and Data Hub, Tecnológico de Monterrey, Mexico
 
 
-
+---
 ## Supervision Details
 ### M.Sc. Supervision
 - - **2024-25**: Diana Patricia Madera Espındola (Masters) “Large Language Models for identifying skills in
