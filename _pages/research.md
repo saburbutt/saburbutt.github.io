@@ -43,5 +43,5 @@ author_profile: true
 ---
 ## Supervision Details
 ### M.Sc. Supervision
-- - **2024-25**: Diana Patricia Madera Espındola (Masters) “Large Language Models for identifying skills in
+- **2024-25**: Diana Patricia Madera Espındola (Masters) “Large Language Models for identifying skills in
 resumes and job postings” at Tecnológico de Monterrey, Mexico
