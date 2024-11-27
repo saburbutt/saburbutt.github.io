@@ -38,8 +38,7 @@ author_profile: true
 ## Talks
 ### Invited Talks and Seminars
 - **May 2023**: Seminar on "Emerging Technologies and Concepts for Large Language Models (LLM)" at IFE Living Lab and Data Hub, Tecnológico de Monterrey, Mexico
-
-- **Oct 2024**: Seminar presented on “HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations” at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
+- **Oct 2024**: Seminar presented on "HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations" at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
 ---
 ## Supervision Details
 ### M.Sc. Supervision
