@@ -26,3 +26,6 @@ UrduThreat: Dataset for Abusive language using Twitter tweets in Urdu language [
 
 
 Dataset for YouTube Based Religious Hate Speech and Extremism Detection from English Texts [Link](https://github.com/saburbutt/Hatespeechdetectioninyoutube)
+
+CoLI-Dravidian: Dataset for Word-level Code-Mixed Language Identification in Dravidian Languages (Kannada, Tamil, Malayalam, and Tulu) [Link](https://sites.google.com/view/coli-dravidian-2024/datasets?authuser=0)
+
