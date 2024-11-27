@@ -11,6 +11,21 @@ author_profile: true
 
 
 ---
+
+**2024**
+
+Balouchzahi, F., Butt, S., Amjad, M., Sidorov, G., & Gelbukh, A. (2024). **UrduHope: Analysis of hope and hopelessness in Urdu texts.** Knowledge-Based Systems, 112746. [Link](https://www.sciencedirect.com/science/article/pii/S0950705124013807)
+
+García-Baena, D., Balouchzahi, F., Butt, S., García-Cumbreras, M. Á., Tonja, A. L., García-Díaz, J. A., ... & Jiménez-Zafra, S. M. (2024). **Overview of hope at iberlef 2024: Approaching hope speech detection in social media from two perspectives, for equality, diversity and inclusion and as expectations.** Procesamiento del lenguaje natural, 73, 407-419. [Link](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627)
+
+Tonja, A., Balouchzahi, F., Butt, S., Kolesnikova, O., Ceballos, H., Gelbukh, A., & Solorio, T. (2024, June). **NLP Progress in Indigenous Latin American Languages.** In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) (pp. 6965-6980). [Link](https://aclanthology.org/2024.naacl-long.385/)
+
+Sharma, R., Nagpal, S., Sabharwal, S., & Butt, S. (2024). **Multi-class Regret Detection in Hindi Devanagari Script.** arXiv preprint arXiv:2401.16561.
+[Link](https://arxiv.org/abs/2401.16561)
+
+Butt, S., Balouchzahi, F., Meque, A. G. M., Amjad, M., Cancino, H. G. C., Sidorov, G., & Gelbukh, A. (2024). **GuReT: Distinguishing Guilt and Regret related Text.** arXiv preprint arXiv:2401.16541. [Link](https://arxiv.org/abs/2401.16541)
+
+
 **2023**
     
 
