@@ -14,6 +14,8 @@ author_profile: true
 
 **2024**
 
+Butt, S., Sidorov, G., & Gelbukh, A. (2024). **Interpretation of Myers–Briggs Type Indicator personality profiles based on ambivert continuum scale.** Expert Systems with Applications, 125, 125689. [Link](https://doi.org/10.1016/j.eswa.2024.125689)
+
 Balouchzahi, F., Butt, S., Amjad, M., Sidorov, G., & Gelbukh, A. (2024). **UrduHope: Analysis of hope and hopelessness in Urdu texts.** Knowledge-Based Systems, 112746. [Link](https://www.sciencedirect.com/science/article/pii/S0950705124013807)
 
 García-Baena, D., Balouchzahi, F., Butt, S., García-Cumbreras, M. Á., Tonja, A. L., García-Díaz, J. A., ... & Jiménez-Zafra, S. M. (2024). **Overview of hope at iberlef 2024: Approaching hope speech detection in social media from two perspectives, for equality, diversity and inclusion and as expectations.** Procesamiento del lenguaje natural, 73, 407-419. [Link](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6627)
@@ -27,7 +29,9 @@ Butt, S., Balouchzahi, F., Meque, A. G. M., Amjad, M., Cancino, H. G. C., Sidoro
 
 
 **2023**
-    
+Hegde, A., Balouchzahi, F., Coelho, S., Shashirekha, H. L., Nayel, H. A., & Butt, S. (2023). Overview of CoLI-Tunglish: Word-level Language Identification in Code-mixed Tulu Text at FIRE 2023. In FIRE (Working Notes) (pp. 179-190). [Link](https://ceur-ws.org/Vol-3681/T4-1.pdf)  
+
+Hegde, A., Balouchzahi, F., Coelho, S., HL, S., Nayel, H. A., & Butt, S. (2023, December). CoLI@ FIRE2023: Findings of Word-level Language Identification in Code-mixed Tulu Text. In Proceedings of the 15th Annual Meeting of the Forum for Information Retrieval Evaluation (pp. 25-26). [Link](https://dl.acm.org/doi/abs/10.1145/3632754.3633075)   
 
 Butt, S., Mejía-Almada, P., Alvarado-Uribe, J., Ceballos, H. G., Sidorov, G., & Gelbukh, A. (2023, October). **MF-SET: A Multitask Learning Framework for Student Evaluation of Teaching.**In Proceedings of the Future Technologies Conference (pp. 254-270). Cham: Springer Nature Switzerland. [Link](https://link.springer.com/chapter/10.1007/978-3-031-47454-5_20)
 
