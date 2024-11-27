@@ -29,3 +29,7 @@ Dataset for YouTube Based Religious Hate Speech and Extremism Detection from Eng
 
 CoLI-Dravidian: Dataset for Word-level Code-Mixed Language Identification in Dravidian Languages (Kannada, Tamil, Malayalam, and Tulu) [Link](https://sites.google.com/view/coli-dravidian-2024/datasets?authuser=0)
 
+Hope at IberLEF: Dataset for Hope speech detection from two perspectives: i) hope for equality, diversity and inclusion, and ii) hope as expectations. [Link (Email the corresponding author)](https://codalab.lisn.upsaclay.fr/competitions/17714#learn_the_details-overview)
+
+
+
