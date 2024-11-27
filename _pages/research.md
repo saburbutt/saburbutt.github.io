@@ -39,9 +39,8 @@ author_profile: true
 ### Invited Talks and Seminars
 - **May 2023**: Seminar on "Emerging Technologies and Concepts for Large Language Models (LLM)" at IFE Living Lab and Data Hub, Tecnológico de Monterrey, Mexico
 
-
+- **Oct 2024**: Seminar presented on “HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations” at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
 ---
 ## Supervision Details
 ### M.Sc. Supervision
-- **2024-25**: Diana Patricia Madera Espındola (Masters) “Large Language Models for identifying skills in
-resumes and job postings” at Tecnológico de Monterrey, Mexico
+- **2024-25**: Diana Patricia Madera Espındola (Masters) “Large Language Models for identifying skills in resumes and job postings” at Tecnológico de Monterrey, Mexico
