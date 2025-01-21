@@ -21,4 +21,5 @@ Upon completion of this educational unit, students will be able to:
 - Identify and design efficient algorithms to solve optimization problems.
 - Use machine learning methods and artificial intelligence in information processing to enable process, service, or product personalization.
 - Design and program efficient algorithms.
+
 [Link](https://samp.itesm.mx/fd/Materias/VistaPreliminarMateria?clave=TC2032&lang=EN#)
