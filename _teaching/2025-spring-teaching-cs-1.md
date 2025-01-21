@@ -3,7 +3,7 @@ title: "Modeling Learning with Artificial Intelligence (Modelación del aprendiz
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-cs-1
-venue: "Computer Science Department, Tec De Monterrey"
+venue: "Computer Science Department, Tecnológico de Monterrey"
 date: 2025-05-01
 location: "Monterrey, Mexico"
 ---

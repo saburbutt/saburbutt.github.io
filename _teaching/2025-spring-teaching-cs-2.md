@@ -3,7 +3,7 @@ title: "Design of Intelligent Agents (Diseño de agentes inteligentes)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-cs-2
-venue: "Computer Science Department, Tec De Monterrey"
+venue: "Computer Science Department, Tecnológico de Monterrey"
 date: 2025-03-01
 location: "Monterrey, Mexico"
 ---
