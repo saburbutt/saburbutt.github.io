@@ -8,14 +8,16 @@ date: 2025-03-01
 location: "Monterrey, Mexico"
 ---
 
-Title: Modeling Learning with Artificial Intelligence
+Title: Design of Intelligent Agents (Diseño de agentes inteligentes)
 ======
 
 
-Short Description: It is an intermediate-level course in computational technologies, focusing on basic algorithms and the development of recommendation systems and analysis using algorithms such as K-means, neural networks, and SVM, among others. It requires prior knowledge of intelligent agents, discrete mathematics, and programming skills to understand and fulfill the course requirements. As a learning outcome, the student analyzes and models simple problem situations through the application of artificial intelligence algorithms.
-Course objective:  Upon completion of this educational unit, students will be able to:
+Short Description: This intermediate computer technologies course focuses on artificial intelligence, and concepts of rational agent and work environment. The aim is to develop students’ skills in problem-solving search and optimization through the application of classic artificial intelligence algorithms. Prior knowledge is required of discrete mathematics, as well as intermediate programming skills in general-purpose languages. Learning outcome: Students analyze and characterize simple work environments in which they can apply one of the problem-solving search algorithms studied during the course.
+
+# Course objective
+Upon completion of this educational unit, students will be able to:
+
 - Identify and design efficient algorithms to solve optimization problems.
 - Use machine learning methods and artificial intelligence in information processing to enable process, service, or product personalization.
-- Analyze the digital environment as a new culture with awareness of exchange and collaboration networks, the new materialities, sensitivities and cognitive schemes that comprise them, and their impact on the construction of a political and cultural life in the network society.
-- Assess the different technological systems and devices, being open to the search and creative implementation of relevant alternatives for their professional performance and the transformation of their professional practice.
-[Link](https://samp.itesm.mx/fd/Materias/VistaPreliminarMateria?clave=TC2034&lang=ES)
+- Design and program efficient algorithms.
+[Link](https://samp.itesm.mx/fd/Materias/VistaPreliminarMateria?clave=TC2032&lang=EN#)
