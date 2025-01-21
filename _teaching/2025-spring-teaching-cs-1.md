@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Modeling Learning with Artificial Intelligence (Modelación del aprendizaje con inteligencia artificial)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-cs-1
@@ -8,13 +8,12 @@ date: 2025-05-01
 location: "Monterrey, Mexico"
 ---
 
-Title: Modeling Learning with Artificial Intelligence (Modelación del aprendizaje con inteligencia artificial)
-======
-
 CIP: 270301
 Clave: TC2034
 
-Short Description: It is an intermediate-level course in computational technologies, focusing on basic algorithms and the development of recommendation systems and analysis using algorithms such as K-means, neural networks, and SVM, among others. It requires prior knowledge of intelligent agents, discrete mathematics, and programming skills to understand and fulfill the course requirements. As a learning outcome, the student analyzes and models simple problem situations through the application of artificial intelligence algorithms.
+# Short Description
+
+It is an intermediate-level course in computational technologies, focusing on basic algorithms and the development of recommendation systems and analysis using algorithms such as K-means, neural networks, and SVM, among others. It requires prior knowledge of intelligent agents, discrete mathematics, and programming skills to understand and fulfill the course requirements. As a learning outcome, the student analyzes and models simple problem situations through the application of artificial intelligence algorithms.
 
 # Course objective
 Upon completion of this educational unit, students will be able to:
