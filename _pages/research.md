@@ -9,7 +9,7 @@ author_profile: true
 ---
 ## Shared Tasks
 ### 2025
-- Organizer of PolyHOPE at IberLEF Optimism, Expectation or Sarcasm? @SEPLN. [Link](https://www.codabench.org/competitions/5509/)
+- Organizer of PolyHope at IberLEF Optimism, Expectation or Sarcasm? @SEPLN. [Link](https://www.codabench.org/competitions/5509/)
 
 ### 2024
 - Organizer of HOPE at IberLEF Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion, and as Expectations @SEPLN. [Link](https://codalab.lisn.upsaclay.fr/competitions/17714)
