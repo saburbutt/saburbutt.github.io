@@ -1,5 +1,5 @@
 ---
-title: "Introduction to R (M4: Programación, implementación y seguimiento de tecnologías emergentes)"
+title: "Introduction to Python (M4: Programación, implementación y seguimiento de tecnologías emergentes)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-bs-1
@@ -17,7 +17,7 @@ It is a fourth module of bloque: Financial Management and Controllership. This c
 
 
 # Course objective
-By the end of this course, students will be able to program effectively in R, apply statistical and computational tools for financial reporting, and monitor key organizational metrics using data visualization and automation techniques. These skills will empower students to integrate technological solutions into financial and administrative processes, fostering innovative and strategic decision-making.
+By the end of this course, students will be able to program effectively in Python, apply statistical and computational tools for financial reporting, and monitor key organizational metrics using data visualization and automation techniques. These skills will empower students to integrate technological solutions into financial and administrative processes, fostering innovative and strategic decision-making.
 
 [Link](https://samp.itesm.mx/fd/Materias/VistaPreliminarMateria?clave=CF3002B&lang=ES)
 
