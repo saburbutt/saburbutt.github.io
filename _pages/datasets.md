@@ -31,5 +31,9 @@ CoLI-Dravidian: Dataset for Word-level Code-Mixed Language Identification in Dra
 
 Hope at IberLEF: Dataset for Hope speech detection from two perspectives: i) hope for equality, diversity and inclusion, and ii) hope as expectations. [Link (Email the corresponding author)](https://codalab.lisn.upsaclay.fr/competitions/17714#learn_the_details-overview)
 
+Hope at RANLP: Dataset for Hope speech detection in English, German, Spanish, and Urdu. [Link](https://www.codabench.org/competitions/5635/)
+
+Hope at IberLEF: Dataset for Hope speech detection with Sarcasm. [Link](https://www.codabench.org/competitions/5509/)
+
 
 
