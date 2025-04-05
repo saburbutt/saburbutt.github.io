@@ -1,5 +1,5 @@
 ---
-title: "M1: Research Methodology and M2: Artificial Intelligence of the Bloque - Development of Advanced Applications in Computer Science (Group 504) (M1: Metodología de investigación y M2 Inteligencia artificial de Bloque - Desarrollo de aplicaciones avanzadas de ciencias computacionales (Gpo 504))"
+title: "Research Methodology and Artificial Intelligence (M1: Metodología de investigación y M2 Inteligencia artificial)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-cs-2
