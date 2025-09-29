@@ -11,6 +11,18 @@ author_profile: true
 
 
 ---
+**2025**
+Butt, S., Daruich, S. D. N., Alvarado-Uribe, J., & Ceballos, H. G. (2025). **Cutting-edge Technologies for Analyzing Student Feedback to Inform Institutional Decision-making in Higher Education. Foresight and STI Governance**, 19(4). [Link](https://foresight-journal.hse.ru/article/view/28047)
+
+Nieto, N., López-Barrios, J. D., Telles-Ramírez, B., Padilla-López, J. V., Butt, S., Mendoza, M. G., ... & Ceballos-Cancino, H. G. (2025, March). **Evaluating Medical Translation Quality Using Neural Machine Translation Models: A CUI-Based Approach via Concept Embeddings from UMLS Data.** In 2025 7th International Conference on Natural Language Processing (ICNLP) (pp. 53-57). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/11108351)
+
+Madera-Espíndola, D. P., Caballero-Domínguez, Z., Ramírez-Macías, V. J., Butt, S., & Ceballos, H. (2025, April). **Detecting Sexism in Tweets: A Sentiment Analysis and Graph Neural Network Approach.** In Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 4: Student Research Workshop) (pp. 48-54). [Link](https://aclanthology.org/2025.naacl-srw.5/)
+
+Butt, S., Alatorre, G. D. L. R., González Gómez, L. J., & Ceballos, H. G. (2025). **Semi-Supervised Taxonomy Expansion and Completion in Dynamic Taxonomies.** Applied Sciences, 15(12), 6517. [Link](https://www.mdpi.com/2076-3417/15/12/6517)
+
+Azofeifa, J. D., Rueda-Castro, V., Gonzalez-Gomez, L. J., Butt, S., Noguez, J., Ceballos, H. G., & Caratozzolo, P. (2025, January). **Insights from a Dynamic KSA Taxonomy Framework: Top 10 Wanted Knowledge, Skills, and Abilities for the INFOCOMM Sector in Mexico.** In 2025 Institute for the Future of Education Conference (IFE) (pp. 1-11). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/11025071)
+
+Nkoyo, F. E. T. A., Ijezue, C. F., Amjad, M., Amjad, A. I., Butt, S., & Castañeda-Garza, G. **Advances in Auto-Grading with Large Language Models: A Cross-Disciplinary Survey**. In The 20th Workshop on Innovative Use of NLP for Building Educational Applications@Association for Computational Linguistics, 477-498 [Link](https://aclanthology.org/2025.bea-1.35.pdf)
 
 **2024**
 
