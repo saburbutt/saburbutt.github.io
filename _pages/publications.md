@@ -12,6 +12,7 @@ author_profile: true
 
 ---
 **2025**
+
 Butt, S., Daruich, S. D. N., Alvarado-Uribe, J., & Ceballos, H. G. (2025). **Cutting-edge Technologies for Analyzing Student Feedback to Inform Institutional Decision-making in Higher Education. Foresight and STI Governance**, 19(4). [Link](https://foresight-journal.hse.ru/article/view/28047)
 
 Nieto, N., López-Barrios, J. D., Telles-Ramírez, B., Padilla-López, J. V., Butt, S., Mendoza, M. G., ... & Ceballos-Cancino, H. G. (2025, March). **Evaluating Medical Translation Quality Using Neural Machine Translation Models: A CUI-Based Approach via Concept Embeddings from UMLS Data.** In 2025 7th International Conference on Natural Language Processing (ICNLP) (pp. 53-57). IEEE. [Link](https://ieeexplore.ieee.org/abstract/document/11108351)
