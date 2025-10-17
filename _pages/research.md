@@ -54,4 +54,4 @@ author_profile: true
 
 ### P.hD Supervision
 - **2025-28**: Adrián Pineda Sánchez at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos)
-- **2025-28**: Momina Hafeez at Centro de Investigación en Computación del Instituto Politécnico Nacional, Mexico (Co-supervision with Dr. Sidorov)
+<!-- - **2025-28**: Momina Hafeez at Centro de Investigación en Computación del Instituto Politécnico Nacional, Mexico (Co-supervision with Dr. Sidorov)-->
