@@ -43,6 +43,10 @@ author_profile: true
 ### Invited Talks and Seminars
 - **Oct 2024**: Seminar presented on "HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations" at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
 - **May 2023**: Seminar on "Emerging Technologies and Concepts for Large Language Models (LLM)" at IFE Living Lab and Data Hub, Tecnológico de Monterrey, Mexico
+- **Feb 2025**: Invited Speaker on the Workshop at IFE Data Hub: Compartiendo experiencias de investigación: "Analysis of Competency-based Higher Education", Mexico
+- **June 2025**: Seminar on "Building Agents with LangGraph" at Universidad Politécnica de Victoria, Mexico
+- **Oct 2025**: Seminar on "Building Agents with LangGraph and LangSmith" at ITESM, Tecnológico de Monterrey, Mexico
+
 
 ---
 ## Supervision Details
