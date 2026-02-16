@@ -10,7 +10,7 @@ author_profile: true
 ## Shared Tasks
 ### 2025
 - Organizer of PolyHope at IberLEF Optimism, Expectation or Sarcasm? @SEPLN. [Link](https://www.codabench.org/competitions/5509/)
-- Organizer of PolyHope-M at RANLP2025: Bridging Hope Speech Detection Across Multiple Languages @RANLP2025. [Link](https://www.codabench.org/competitions/5635/)
+- Organizer of WILD at FIRE2025: Overview of Word-level Code-Mixed Language Identification in Dravidian Languages [Link](https://www.codabench.org/competitions/7902/)
 
 ### 2024
 - Organizer of HOPE at IberLEF Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion, and as Expectations @SEPLN. [Link](https://codalab.lisn.upsaclay.fr/competitions/17714)
