@@ -21,8 +21,21 @@ Butt, S., & Ceballos, H. G. (in press). **If Generative Artificial Intelligence 
 
 ---
 ## Journals and Conferences
+**2026**
+Sharma, R., Nagpal, S., Sabharwal, S., & Butt, S. (2026). **HRegBERT‐CNN: Multi‐Class Regret Detection in Hindi Devanagari Script**. Concurrency and Computation: Practice and Experience, 38(1), e70468. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.70468)
+
 
 **2025**
+
+Butt, S., Balouchzahi, F., Amjad, M., Jiménez-Zafra, S. M., Ceballos, H. G., & Sidorov, G. (2025). **Overview of PolyHope at IberLEF 2025: Optimism, Expectation or Sarcasm?**. Procesamiento del lenguaje natural, 75, 461-474. [Link](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6768)
+
+Madera-Espíndola, D. P., Caballero-Domínguez, Z., Ramírez-Macías, V. J., Butt, S., & Ceballos, H. G. (2025, September). **Transformers and Large Language Models for Hope Speech Detection A Multilingual Approach**. In Proceedings of the First Workshop on Comparative Performance Evaluation: From Rules to Language Models (pp. 67-76). [Link](https://aclanthology.org/2025.r2lm-1.pdf#page=77)
+
+Butt, S., Ceballos, H. G., & Madera-Espíndola, D. P. (2025, October). **Tec-Habilidad: Skill Classification for Bridging Education and Employment**. In Mexican International Conference on Artificial Intelligence (pp. 313-328). Cham: Springer Nature Switzerland. [Link](https://link.springer.com/chapter/10.1007/978-3-032-09037-9_25)
+
+Shafique, M. A., Mehreen, K., Arham, M., Amjad, M., Butt, S., & Farooq, H. (2025, November). **Alif: Advancing Urdu Large Language Models via Multilingual Synthetic Data Distillation**. In Proceedings of the 5th Workshop on Multilingual Representation Learning (MRL 2025) (pp. 271-284). [Link](https://aclanthology.org/anthology-files/pdf/mrl/2025.mrl-main.19.pdf)
+
+Agrawal, A., Hegde, A., Coelho, S., Butt, S., Balouchzahi, F., V, S., & Hosahalli Lakshmaiah, S. (2025, December). **WILD@ FIRE2025: Overview of Word-level Code-Mixed Language Identification in Dravidian Languages**. In Proceedings of the 17th annual meeting of the Forum for Information Retrieval Evaluation (pp. 25-27). [Link](https://dl.acm.org/doi/full/10.1145/3777867.3778258)
 
 Butt, S., Daruich, S. D. N., Alvarado-Uribe, J., & Ceballos, H. G. (2025). **Cutting-edge Technologies for Analyzing Student Feedback to Inform Institutional Decision-making in Higher Education. Foresight and STI Governance**, 19(4). [Link](https://foresight-journal.hse.ru/article/view/28047)
 
