@@ -8,27 +8,30 @@ author_profile: true
 
 ---
 ## Shared Tasks
-### 2025
-- Organizer of PolyHope at IberLEF Optimism, Expectation or Sarcasm? @SEPLN. [Link](https://www.codabench.org/competitions/5509/)
-- Organizer of WILD at FIRE2025: Overview of Word-level Code-Mixed Language Identification in Dravidian Languages [Link](https://www.codabench.org/competitions/7902/)
 
-### 2024
-- Organizer of HOPE at IberLEF Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion, and as Expectations @SEPLN. [Link](https://codalab.lisn.upsaclay.fr/competitions/17714)
-- Organizer at CoLI-Dravidian Word-level Code-Mixed Language Identification in Dravidian Languages @FIRE 2024. [Link](https://sites.google.com/view/coli-dravidian-2024/home)
-
-### 2023
-- Organizer at CoLI-Tunglish Word-level Language Identification in Code-mixed Tulu Texts @FIRE 2023. [Link](https://sites.google.com/view/coli-tunglish/organizers?authuser=0)
-
-### 2022
-- Organizer at CICLing Multi-label emotion and threat language detection task (Emothreat) @FIRE 2022. [Link](https://sites.google.com/view/multi-label-emotionsfire-task)
-- Organizer at CoLI-Kanglish Word Level Language Identification in Code-mixed Kannada-English Texts @ICON 2022. [Link](https://sites.google.com/view/kanglishicon2022/organizers?authuser=0)
+### 2020
+- Task Committee member at CICLing, UrduFake track @FIRE 2020, Mexico. Managed the website, task entries, and evaluation reports by all participants. [Link](https://www.urdufake2020.cicling.org/home)
 
 ### 2021
 - Organizer at CICLing UrduFake news detection track @FIRE. [Link](https://www.urdufake2021.cicling.org/organizers)
 - Organizer at CICLing Urdu threat and abuse track @FIRE 2021 co-hosted with ODS SoC 2021. [Link](https://www.urduthreat2021.cicling.org/dataset)
 
-### 2020
-- Task Committee member at CICLing, UrduFake track @FIRE 2020, Mexico. Managed the website, task entries, and evaluation reports by all participants. [Link](https://www.urdufake2020.cicling.org/home)
+### 2022
+- Organizer at CICLing Multi-label emotion and threat language detection task (Emothreat) @FIRE 2022. [Link](https://sites.google.com/view/multi-label-emotionsfire-task)
+- Organizer at CoLI-Kanglish Word Level Language Identification in Code-mixed Kannada-English Texts @ICON 2022. [Link](https://sites.google.com/view/kanglishicon2022/organizers?authuser=0)
+
+### 2023
+- Organizer at CoLI-Tunglish Word-level Language Identification in Code-mixed Tulu Texts @FIRE 2023. [Link](https://sites.google.com/view/coli-tunglish/organizers?authuser=0)
+
+### 2024
+- Organizer of HOPE at IberLEF Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion, and as Expectations @SEPLN. [Link](https://codalab.lisn.upsaclay.fr/competitions/17714)
+- Organizer at CoLI-Dravidian Word-level Code-Mixed Language Identification in Dravidian Languages @FIRE 2024. [Link](https://sites.google.com/view/coli-dravidian-2024/home)
+
+### 2025
+- Organizer of PolyHope at IberLEF Optimism, Expectation or Sarcasm? @SEPLN. [Link](https://www.codabench.org/competitions/5509/)
+- Organizer of WILD at FIRE2025: Overview of Word-level Code-Mixed Language Identification in Dravidian Languages [Link](https://www.codabench.org/competitions/7902/)
+
+
 
 
 ---
@@ -41,11 +44,14 @@ author_profile: true
 ---
 ## Talks
 ### Invited Talks and Seminars
-- **Oct 2024**: Seminar presented on "HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations" at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
+
+
 - **May 2023**: Seminar on "Emerging Technologies and Concepts for Large Language Models (LLM)" at IFE Living Lab and Data Hub, Tecnológico de Monterrey, Mexico
+- **Oct 2024**: Seminar presented on "HOPE - Approaching Hope Speech Detection in Social Media from Two Perspectives, for Equality, Diversity and Inclusion and as Expectations" at MexLEF 2024, Tonantzintla, Cholula, Puebla, Mexico.
 - **Feb 2025**: Invited Speaker on the Workshop at IFE Data Hub: Compartiendo experiencias de investigación: "Analysis of Competency-based Higher Education", Mexico
 - **June 2025**: Seminar on "Building Agents with LangGraph" at Universidad Politécnica de Victoria, Mexico
 - **Oct 2025**: Seminar on "Building Agents with LangGraph and LangSmith" at ITESM, Tecnológico de Monterrey, Mexico
+- **Jan 2026**: Panel discussion on "Shaping the future of Skills in Mexico // Dando forma al futuro de las habilidades en México" with  Manuel Montoya Ortega and Armando Acosta at the IFE conference, Monterrey, Mexico. 
 
 
 ---

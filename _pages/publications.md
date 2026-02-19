@@ -9,8 +9,19 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
+---
+## Technical Reports
+Butt, S., Ceballos Cancino, H. G. & Fung, M. (2025). **Shaping skills for the Mexican workforce : Data-based insights into the Mexican automotive industry**. Reporte/report. [Link](https://hdl.handle.net/11285/704782)
+
+Ceballos Cancino, H. G., Butt, S., Ríos Alatorre, G. d. l. & Madera Espíndola, D. P. (2025). **Skills report on automotive industry in Mexico : Shaping skills framework**. Reporte/report. [Link](https://hdl.handle.net/11285/703348)
 
 ---
+## Book Chapters
+Butt, S., & Ceballos, H. G. (in press). **If Generative Artificial Intelligence Is the Answer, Then What’s the Question? On the Social Consequences of Generative AI**. In D. López Castro, M. Cebral-Loureda, & P. Jiménez Schlegl (Eds.), Regulating Autonomy: Ethics, Values and Governance in Artificial Intelligence. Springer Nature Switzerland AG.
+
+---
+## Journals and Conferences
+
 **2025**
 
 Butt, S., Daruich, S. D. N., Alvarado-Uribe, J., & Ceballos, H. G. (2025). **Cutting-edge Technologies for Analyzing Student Feedback to Inform Institutional Decision-making in Higher Education. Foresight and STI Governance**, 19(4). [Link](https://foresight-journal.hse.ru/article/view/28047)
