@@ -57,8 +57,8 @@ author_profile: true
 ---
 ## Supervision Details
 ### M.Sc. Supervision
-- **2024-25**: Diana Patricia Madera Espındola “Large Language Models for identifying skills in resumes and job postings” at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos)
-- **2024-25**: Armando Antonio Acosta Flores “KSA Based Sequential Classification for Occupation Normalization in Spanish Automotive Job Postings” at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos)
+- **2024-25**: Diana Patricia Madera Espındola “Domain-adapted pretraining and topic modeling for identifying skills categories in job postings” at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos) [Link](https://repositorio.tec.mx/items/8e6a5eaf-53f6-4549-b097-3518f8a36204)
+- **2024-25**: Armando Antonio Acosta Flores “Automatic occupation classification based on the KSA model for Spanish job texts in the Mexican automotive sector” at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos) [Link](https://repositorio.tec.mx/items/746f392d-7f9e-4b4a-9479-c17d40bd62fc)
 - **2025-26**: Tayyab Latif at Centro de Investigación en Computación del Instituto Politécnico Nacional, Mexico (Co-supervision with Dr. Sidorov)
 - **2025-26**: Asifa Zafar at Centro de Investigación en Computación del Instituto Politécnico Nacional, Mexico (Co-supervision with Dr. Sidorov)
 
