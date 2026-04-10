@@ -17,7 +17,7 @@ Ceballos Cancino, H. G., Butt, S., Ríos Alatorre, G. d. l. & Madera Espíndola,
 
 ---
 ## Book Chapters
-Butt, S., & Ceballos, H. G. (in press). **If Generative Artificial Intelligence Is the Answer, Then What’s the Question? On the Social Consequences of Generative AI**. In D. López Castro, M. Cebral-Loureda, & P. Jiménez Schlegl (Eds.), Regulating Autonomy: Ethics, Values and Governance in Artificial Intelligence. Springer Nature Switzerland AG.
+Butt, S., & Ceballos, H. G. (in press). **If Generative Artificial Intelligence Is the Answer, Then What’s the Question? On the Social Consequences of Generative AI**. In D. López Castro, M. Cebral-Loureda, & P. Jiménez Schlegl (Eds.), Regulating Autonomy: Ethics, Values and Governance in Artificial Intelligence. Springer Nature Switzerland AG. [Link]{https://link.springer.com/book/10.1007/978-3-032-13063-1#toc}
 
 ---
 ## Journals and Conferences
