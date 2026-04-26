@@ -31,7 +31,7 @@ Hope at IberLEF: Dataset for Hope speech detection with Sarcasm. [Link](https://
 
 Multi-label Classification Dataset for Student Evaluation of Teaching (SET) [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/QSKJRM)
 
-RAG-based Dataset for Skill Hypernym and Hyponym iIentification [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/UEFAPU)
+RAG-based Dataset for Skill Hypernym and Hyponym Identification [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/UEFAPU)
 
 KSAO Skill Identification and Classification dataset for Automotive Industry [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/O7E66L)
 
