@@ -9,21 +9,15 @@ author_profile: true
 EmoThreat: Dataset for Multi-label Emotion Classification in Urdu 
 [Link](https://sites.google.com/view/multi-label-emotionsfire-task/dataset?authuser=0)
 
-
 EmoThreat: Dataset for Threatening Language Detection Task in Urdu [Link](https://sites.google.com/view/multi-label-emotionsfire-task/dataset?authuser=0)
-
 
 CoLI-Kanglish: Dataset for Word Level Language Identification in Code-mixed Kannada-English Texts [Link](https://sites.google.com/view/kanglishicon2022/dataset?authuser=0)
 
-
 ReDDIT: Dataset for Regret Detection and Domain Identification from English Texts [Link (Email the corresponding author)](https://www.sciencedirect.com/science/article/abs/pii/S0957417423006012)
-
 
 UrduFake: Dataset for Urdu Fake News named Bend-The-Truth [Link](https://www.urdufake2021.cicling.org/dataset)
 
-
 UrduThreat: Dataset for Abusive language using Twitter tweets in Urdu language [Link](https://github.com/MaazAmjad/Urdu-abusive-detection-FIRE2021)
-
 
 Dataset for YouTube Based Religious Hate Speech and Extremism Detection from English Texts [Link](https://github.com/saburbutt/Hatespeechdetectioninyoutube)
 
@@ -34,6 +28,12 @@ Hope at IberLEF: Dataset for Hope speech detection from two perspectives: i) hop
 Hope at RANLP: Dataset for Hope speech detection in English, German, Spanish, and Urdu. [Link](https://www.codabench.org/competitions/5635/)
 
 Hope at IberLEF: Dataset for Hope speech detection with Sarcasm. [Link](https://www.codabench.org/competitions/5509/)
+
+Multi-label Classification Dataset for Student Evaluation of Teaching (SET) [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/QSKJRM)
+
+RAG-based Dataset for Skill Hypernym and Hyponym iIentification [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/UEFAPU)
+
+KSAO Skill Identification and Classification dataset for Automotive Industry [Link](https://datahub.tec.mx/dataset.xhtml?persistentId=doi:10.57687/FK2/O7E66L)
 
 
 
