@@ -52,6 +52,7 @@ author_profile: true
 - **June 2025**: Seminar on "Building Agents with LangGraph" at Universidad Politécnica de Victoria, Mexico
 - **Oct 2025**: Seminar on "Building Agents with LangGraph and LangSmith" at ITESM, Tecnológico de Monterrey, Mexico
 - **Jan 2026**: Panel discussion on "Shaping the future of Skills in Mexico // Dando forma al futuro de las habilidades en México" with  Manuel Montoya Ortega and Armando Acosta at the IFE conference, Monterrey, Mexico. 
+- **Nov 2026**: Tutorial on "Storytelling with Data: Principles and Practice for Visual Communication" at the Mexican International Conference on Artificial Intelligence (MICAI), Chihuahua, Mexico. 
 
 
 ---
@@ -64,5 +65,4 @@ author_profile: true
 
 ### P.hD Supervision
 - **2025-28**: Adrián Pineda Sánchez at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos)
-<!--- **2026-29**: Víctor Manuel Puga Ruiz at Tecnológico de Monterrey, Mexico (Co-supervision with Dr. Ceballos)-->
-<!-- - **2025-28**: Momina Hafeez at Centro de Investigación en Computación del Instituto Politécnico Nacional, Mexico (Co-supervision with Dr. Sidorov)-->
+- **2026-29**: Víctor Manuel Puga Ruiz at Tecnológico de Monterrey, Mexico (Primary supervisor)

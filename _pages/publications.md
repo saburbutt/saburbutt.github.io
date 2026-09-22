@@ -17,11 +17,15 @@ Ceballos Cancino, H. G., Butt, S., Ríos Alatorre, G. d. l. & Madera Espíndola,
 
 ---
 ## Book Chapters
-Butt, S., & Ceballos, H. G. (in press). **If Generative Artificial Intelligence Is the Answer, Then What’s the Question? On the Social Consequences of Generative AI**. In D. López Castro, M. Cebral-Loureda, & P. Jiménez Schlegl (Eds.), Regulating Autonomy: Ethics, Values and Governance in Artificial Intelligence. Springer Nature Switzerland AG. [Link](https://link.springer.com/book/10.1007/978-3-032-13063-1#toc)
+Butt, S., Ceballos, H.G. (2026). **If Generative Artificial Intelligence Is the Answer, Then What’s the Question? On the Social Consequences of Generative AI**. In: López-Castro, D., Cebral-Loureda, M., Jiménez-Schlegl, P. (eds) Regulating Autonomy. Law, Governance and Technology Series, vol 81. Springer, Cham. [Link](https://doi.org/10.1007/978-3-032-13063-1_6 )
 
 ---
 ## Journals and Conferences
 **2026**
+
+Butt, S., Ceballos, H. G., & Fung, M. (2026). **From data to policy: building an evidence-based future for skills, work, and learning in Latin America**. Policy Reviews in Higher Education, 1-11. [Link](https://www.tandfonline.com/doi/full/10.1080/23322969.2026.2682908)
+
+Nieto, N., López-Barrios, J. D., Telles-Ramírez, B., Padilla-López, J. V., De Anda-García, I. K., Butt, S., ... & Ceballos-Cancino, H. G. (2026). **Preserving Medical Meaning Across Languages: A UMLS-Driven Approach with Small Language Models**. In World Congress in Computer Science, Computer Engineering & Applied Computing (pp. 166-180). Springer, Cham. [Link](https://link.springer.com/chapter/10.1007/978-3-032-22211-4_11)
 
 Sharma, R., Nagpal, S., Sabharwal, S., & Butt, S. (2026). **HRegBERT‐CNN: Multi‐Class Regret Detection in Hindi Devanagari Script**. Concurrency and Computation: Practice and Experience, 38(1), e70468. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.70468)
 
